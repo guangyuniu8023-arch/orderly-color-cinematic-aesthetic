@@ -1,0 +1,4 @@
+interface:
+  display_name: "秩序感配色影像美学"
+  short_description: "生成秩序构图、精密配色与克制叙事的原创影像方案"
+  default_prompt: "使用 $orderly-color-cinematic-aesthetic 将我的文字或参考图转换为秩序感配色影像美学。"
